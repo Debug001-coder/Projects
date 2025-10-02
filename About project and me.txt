@@ -1,0 +1,11 @@
+This is an Algorithmic Trader for both US Stocks and Cryptocurrency. 
+The money traded is paper money and not for any profit making.
+Binance and Alpaca API were used for the Cyrptocurrency and US Stocks respectively.
+
+# Most Important:-
+
+This project was coded using Chatgpt, each part was seperately created and then integrated into one, with few changes made by me in the algorithmic logic and workings.
+
+The sole purpose of this project was my curiosity in algorithmic trading. Since I could not code such a big project due to both lack of knowledge and time this project was coded using AI.
+
+This was my second project using API just to understand how finance could be integrated and automated by programs.
