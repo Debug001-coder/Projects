@@ -9,7 +9,7 @@ Due to lack of knowledge and time these projects were coded using AI for only le
 
 #IMPORTANT# #IMPORTANT# #IMPORTANT# #IMPORTANT# #IMPORTANT# #IMPORTANT# #IMPORTANT#
 
-"The sole purpose of these projects is curiosity and learning like concepts like API's, Finance integration in Tech, Error Handling etc. Non of these projects resemble my knowledge and expertise. The only message to create these projects were for learning and curiosity to create something I like."
+"The sole purpose of these projects is curiosity and learning concepts of API's, Finance integration in Tech, Error Handling etc. Non of these projects resemble my knowledge and expertise. The only message to create these projects were for learning and curiosity to create something I like."
 
 THANK YOU
 
