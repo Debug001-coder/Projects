@@ -1,0 +1,10 @@
+{
+    "cash":0,
+    "pnl":0,
+    "positions": {
+        "BTCUSDT": {
+            "qty":0,
+            "avg_price":0
+        }
+    }
+}
