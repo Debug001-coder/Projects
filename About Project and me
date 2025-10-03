@@ -1,0 +1,44 @@
+LinkedIn Profile Search Automation
+
+About This Project
+
+This project is a small experimental tool that automates LinkedIn profile searches using the Google SERP API (SerpAPI).
+It was an interesting project I came across on LinkedIn itself, but the execution and coding were done with the help of AI (ChatGPT).
+
+I have made several tweaks to the code, added filtering features, and plan to extend it further.
+
+This project is not meant for professional use but as a demonstration of:
+
+1:-My curiosity in automation and data projects
+
+2:-My ability to learn, adapt, and experiment with new technologies
+
+3:-How I leverage AI to turn ideas into working prototypes
+
+Planned Features in Future
+
+1:-Introductory mailing to the found profiles
+
+2:-Auto-connect functionality to send connection requests
+
+3:-More granular filters:
+
+4:-Job titles
+
+5:-Years of experience
+
+6:-Skills/keywords
+
+⚠️ Disclaimer
+
+This project is for learning and exploration purposes only.
+I do not claim ownership of the entire code — it was developed with AI assistance and extended with my own ideas and modifications.
+
+It is not intended to be used in a way that violates LinkedIn’s Terms of Service or data privacy guidelines.
+
+#IMPORTANT# #IMPORTANT# #IMPORTANT# #IMPORTANT# #IMPORTANT# #IMPORTANT# #IMPORTANT#
+
+"The sole purpose of these projects is curiosity and learning concepts of API's, Finance integration in Tech, Error Handling etc. Non of these projects resemble my knowledge and expertise. The only message to create these projects were for learning and curiosity to create something I like."
+
+THANK YOU
+
